@@ -5,7 +5,7 @@ User Stories
 
 User Story #1: As a roommate, I want to view a shared dashboard so that I can see all assigned chores, deadlines, and completion statuses in one place.
 User Story #2: As a roommate, I want to mark chores as completed so that progress is visible.
-User Story #3: As an admin, I want to manage users and chore assignments so that the system remains organized and controlled.
+User Story #3: As a roommate, I want to manage shared expenses so that rent payments remain organized and controlled.
 
 Breaking Down User Stories and Burndown Chart
 
@@ -27,12 +27,12 @@ Breaking Down User Stories and Burndown Chart
 | Display assigned chore on dashboard                    | 2       | 2 hrs    | 10       | Medium     | Crystal     |
 
 
-    User Story #3: As an admin, I want to manage users and chore assignments so that the system remains organized and controlled.
+    User Story #3: As a roommate, I want to manage shared expenses so that rent payments remain organized and controlled.
 | Task                                            | Story # | Duration | Priority | Complexity | Lead Person |
 | ----------------------------------------------- | ------- | -------- | -------- | ---------- | ----------- |
-| Add “Mark Complete” button to chore card        | 3       | 1 hr     | 10       | Low        | Ava         |
-| Update chore status label (Pending → Completed) | 3       | 1 hr     | 10       | Low        | Crystal     |
-| Update summary cards after completion           | 3       | 2 hrs    | 9        | Medium     | Kenlee      |
+| Add rent configuration to expenses page         | 3       | 1 hr     | 10       | Low        | Ava         |
+| Create payment status card, add status for each | 3       | 1 hr     | 10       | Low        | Crystal     |
+| Add summary banner for month and amount owed    | 3       | 2 hrs    | 9        | Medium     | Kenlee      |
 
 
 Screenshots of our Burndown Chart for 2 different sprint days (see images folder)
